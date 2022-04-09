@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maged-Samir
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning .Net technologies
+- 👀 Interested in Programming
+- 🌱 Currently learning .Net technologies
 - 📫 How to reach me ...https://www.linkedin.com/in/magedsamir/
 
 <!---
